@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorInjection", "Samurais\ConstructorInjection.csproj", "{F17D0F52-BFAE-4F5A-BF6F-0639E76F27DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorInjection", "ConstructorInjection\ConstructorInjection.csproj", "{F17D0F52-BFAE-4F5A-BF6F-0639E76F27DA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetterInjection", "SetterInjection\SetterInjection.csproj", "{39F56E47-B34D-4D15-BA91-6B838F621D7A}"
 EndProject
